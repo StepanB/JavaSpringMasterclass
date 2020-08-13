@@ -1,7 +1,10 @@
-academy\learnprogramming\console\Game.class
-academy\learnprogramming\console\NumberGenerator.class
-academy\learnprogramming\console\AppConfig.class
-academy\learnprogramming\console\GameImpl.class
-academy\learnprogramming\console\NumberGeneratorImpl.class
-academy\learnprogramming\console\MessageGenerator.class
-academy\learnprogramming\console\MessageGeneratorImpl.class
+academy\learnprogramming\NumberGenerator.class
+academy\learnprogramming\MaxNumber.class
+academy\learnprogramming\MessageGenerator.class
+academy\learnprogramming\Game.class
+academy\learnprogramming\GameImpl.class
+academy\learnprogramming\config\GameConfig.class
+academy\learnprogramming\GuessCount.class
+academy\learnprogramming\MessageGeneratorImpl.class
+academy\learnprogramming\NumberGeneratorImpl.class
+academy\learnprogramming\MinNumber.class
