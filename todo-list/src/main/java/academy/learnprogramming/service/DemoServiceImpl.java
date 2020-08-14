@@ -1,4 +1,4 @@
-package academy.learnprogramming;
+package academy.learnprogramming.service;
 
 import org.springframework.stereotype.Service;
 
@@ -12,6 +12,6 @@ public class DemoServiceImpl implements DemoService {
 
     @Override
     public String getWelcomeMessage() {
-        return "Welcome to this Demo application";
+        return "Welcome to this Demo application.";
     }
 }
